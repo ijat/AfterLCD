@@ -1,0 +1,6 @@
+[submodule "AfterLCD-Win"]
+	path = AfterLCD-Win
+	url = https://github.com/ijat/AfterLCD-Win.git
+[submodule "AfterLCD-Arduino"]
+	path = AfterLCD-Arduino
+	url = https://github.com/ijat/AfterLCD-Arduino.git
